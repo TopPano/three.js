@@ -9,4 +9,5 @@ export { SphereGeometry } from './geometries/SphereGeometry.js';
 export { Matrix4 } from './math/Matrix4.js';
 export { MeshBasicMaterial } from './materials/MeshBasicMaterial.js';
 export { Mesh } from './objects/Mesh.js';
+export { ImageLoader} from './loaders/ImageLoader.js';
 export { Vector3 } from './math/Vector3.js';

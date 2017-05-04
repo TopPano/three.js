@@ -23043,4 +23043,4 @@ function SphereBufferGeometry( radius, widthSegments, heightSegments, phiStart, 
 SphereBufferGeometry.prototype = Object.create( BufferGeometry.prototype );
 SphereBufferGeometry.prototype.constructor = SphereBufferGeometry;
 
-export { PerspectiveCamera, Scene, WebGLRenderer, TextureLoader, LinearFilter, SphereGeometry, Matrix4, MeshBasicMaterial, Mesh, Vector3 };
+export { PerspectiveCamera, Scene, WebGLRenderer, TextureLoader, LinearFilter, SphereGeometry, Matrix4, MeshBasicMaterial, Mesh, ImageLoader, Vector3 };

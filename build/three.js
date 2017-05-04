@@ -23058,6 +23058,7 @@
 	exports.Matrix4 = Matrix4;
 	exports.MeshBasicMaterial = MeshBasicMaterial;
 	exports.Mesh = Mesh;
+	exports.ImageLoader = ImageLoader;
 	exports.Vector3 = Vector3;
 
 	Object.defineProperty(exports, '__esModule', { value: true });
